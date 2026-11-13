@@ -31,9 +31,9 @@ This project analyses the **Baraka Manufacturers Dashboard** (`Baraka.pbix`), a 
 - Most margin lost by segment: **Government (−14.6 pp)**.
 - Most margin lost by product: **Maize Flour (−18.2 pp)** and **Bar Soap (−18.0 pp)**.
 
-```
 
 
 
-**Erickson Nyaga ** — mugendierickson@gmail.com 
- GitHub: [cruzaza](https://github.com/cruzaza)
+
+Erickson Nyaga  — mugendierickson@gmail.com 
+ GitHub: [cruzaza](https://github.com/cruqza)
