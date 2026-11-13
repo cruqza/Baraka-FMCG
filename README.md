@@ -2,7 +2,7 @@
 
 **Author:** Erickson Nyaga   
 **Date:** 13 November 2026  
-**Repo:** Teleco_churn-project (DSEA coursework)
+
 
 ## Overview
 
