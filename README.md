@@ -1,4 +1,4 @@
-# Baraqa Manufacturers — Dashboard Analysis
+# Baraka Manufacturers — Dashboard Analysis
 
 **Author:** Erickson Nyaga   
 **Date:** 13 November 2026  
