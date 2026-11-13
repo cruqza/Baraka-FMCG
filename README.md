@@ -36,4 +36,4 @@ This project analyses the **Baraka Manufacturers Dashboard** (`Baraka.pbix`), a 
 
 
 Erickson Nyaga  — mugendierickson@gmail.com 
- GitHub: [cruzaza](https://github.com/cruqza)
+ GitHub: [cruqza](https://github.com/cruqza)
