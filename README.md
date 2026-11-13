@@ -33,16 +33,6 @@ This project analyses the **Baraka Manufacturers Dashboard** (`Baraka.pbix`), a 
 
 ```
 
-## Repository Structure
-
-```
-.
-├── Baraka.pbix          # Power BI dashboard (master data)
-├── Baraka_Dashboard_Analysis.md  
-└── readme.md           
-```
-
-
 ## Contact
 
 **Erickson Nyaga** — mugendierickson@gmail.com — GitHub: [cruzaza](https://github.com/cruzaza)
